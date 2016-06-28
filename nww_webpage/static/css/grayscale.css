@@ -36,6 +36,19 @@ p {
     line-height: 1.5;
 }
 
+input[type=submit]{
+    background-color: #696969;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-size: 18px;
+
+}
+
+form {
+    font-size: 18px;
+}
+
 @media(min-width:768px) {
     p {
         margin: 0 0 35px;
